@@ -1,0 +1,13 @@
+{
+    "Archives": [
+        {
+            "ArchiveName": "event-replay-archive-demo",
+            "EventSourceArn": "arn:aws:events:ap-south-1:937509585155:event-bus/event-replay-bus-demo",
+            "State": "ENABLED",
+            "RetentionDays": 30,
+            "SizeBytes": 0,
+            "EventCount": 0,
+            "CreationTime": "2026-10-29T15:55:09+00:00"
+        }
+    ]
+}
